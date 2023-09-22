@@ -1,0 +1,192 @@
+C:\Users\g023g1246\Desktop\DxLibProjects\ActionGame\obj\Debug\ActionGame.csproj.AssemblyReference.cache
+C:\Users\g023g1246\Desktop\DxLibProjects\ActionGame\obj\Debug\ActionGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\g023g1246\Desktop\DxLibProjects\ActionGame\obj\Debug\ActionGame.csproj.CoreCompileInputs.cache
+C:\Users\g023g1246\Desktop\DxLibProjects\ActionGame\bin\Debug\DxLibW.dll
+C:\Users\g023g1246\Desktop\DxLibProjects\ActionGame\bin\Debug\DxLibW_x64.dll
+C:\Users\g023g1246\Desktop\DxLibProjects\ActionGame\bin\Debug\ActionGame.exe.config
+C:\Users\g023g1246\Desktop\DxLibProjects\ActionGame\bin\Debug\ActionGame.exe
+C:\Users\g023g1246\Desktop\DxLibProjects\ActionGame\bin\Debug\ActionGame.pdb
+C:\Users\g023g1246\Desktop\DxLibProjects\ActionGame\obj\Debug\ActionGame.exe
+C:\Users\g023g1246\Desktop\DxLibProjects\ActionGame\obj\Debug\ActionGame.pdb
+C:\Users\g023g1246\Desktop\DxLibProjects\ActionGame\bin\Debug\Image\mapchip.png
+C:\Users\g023g1246\Desktop\DxLibProjects\ActionGame\bin\Debug\Image\player_shot.png
+C:\Users\g023g1246\Desktop\DxLibProjects\ActionGame\bin\Debug\Image\shiitake.png
+C:\Users\g023g1246\Desktop\DxLibProjects\ActionGame\bin\Debug\Map\stage1_object.csv
+C:\Users\g023g1246\Desktop\DxLibProjects\ActionGame\bin\Debug\Map\stage1_terrain.csv
+C:\Users\g023g1246\Desktop\DxLibProjects\ActionGame\bin\Debug\Image\azalea.png
+C:\Users\g023g1246\Desktop\DxLibProjects\ActionGame\bin\Debug\Image\swordbeam.png
+C:\Users\g023g1246\Desktop\DxLibProjects\ActionGame\bin\Debug\Image\itemLifeUp.png
+C:\Users\g023g1246\Desktop\DxLibProjects\ActionGame\bin\Debug\Image\itemShieldUp.png
+C:\Users\g023g1246\Desktop\DxLibProjects\ActionGame\bin\Debug\Image\itemSpeedUp.png
+C:\Users\g023g1246\Desktop\DxLibProjects\ActionGame\bin\Debug\Image\coin.png
+C:\Users\g023g1246\Desktop\DxLibProjects\ActionGame\bin\Debug\Image\sparkling.png
+C:\Users\g023g1246\Desktop\DxLibProjects\ActionGame\bin\Debug\Image\bomber.png
+C:\Users\g023g1246\Desktop\DxLibProjects\ActionGame\bin\Debug\Image\flower.png
+C:\Users\g023g1246\Desktop\DxLibProjects\ActionGame\bin\Debug\Image\ghost.png
+C:\Users\g023g1246\Desktop\DxLibProjects\ActionGame\bin\Debug\Image\squid.png
+C:\Users\g023g1246\Desktop\DxLibProjects\ActionGame\bin\Debug\Image\turtle.png
+C:\Users\g023g1246\Desktop\DxLibProjects\ActionGame\bin\Debug\Image\FloorObject.png
+C:\Users\g023g1246\Desktop\DxLibProjects\ActionGame\bin\Debug\Image\blankblock.png
+C:\Users\g023g1246\Desktop\DxLibProjects\ActionGame\bin\Debug\Image\breakable.png
+C:\Users\g023g1246\Desktop\DxLibProjects\ActionGame\bin\Debug\Image\itemblock.png
+C:\Users\g023g1246\Desktop\DxLibProjects\ActionGame\bin\Debug\Image\spikeblock.png
+C:\Users\g023g1246\Desktop\DxLibProjects\ActionGame\bin\Debug\Image\spikedrop.png
+C:\Users\g023g1246\Desktop\DxLibProjects\ActionGame\bin\Debug\Image\ellanoir_goal.png
+C:\Users\g023g1246\Desktop\DxLibProjects\ActionGame\bin\Debug\Map\stage2_object.csv
+C:\Users\g023g1246\Desktop\DxLibProjects\ActionGame\bin\Debug\Map\stage2_terrain.csv
+C:\Users\g023g1246\Desktop\DxLibProjects\ActionGame\bin\Debug\Map\stage3_object.csv
+C:\Users\g023g1246\Desktop\DxLibProjects\ActionGame\bin\Debug\Map\stage3_terrain.csv
+C:\Users\g023g1246\Desktop\DxLibProjects\ActionGame\bin\Debug\Image\annette_goal.png
+C:\Users\g023g1246\Desktop\DxLibProjects\ActionGame\bin\Debug\Map\stage4_object.csv
+C:\Users\g023g1246\Desktop\DxLibProjects\ActionGame\bin\Debug\Map\stage4_terrain.csv
+C:\Users\g023g1246\Desktop\DxLibProjects\ActionGame\bin\Debug\Image\chargedshot.png
+C:\Users\g023g1246\Desktop\DxLibProjects\ActionGame\bin\Debug\Image\annette.png
+C:\Users\g023g1246\Desktop\DxLibProjects\ActionGame\bin\Debug\Image\enemy_bullet_16.png
+C:\Users\g023g1246\Desktop\DxLibProjects\ActionGame\bin\Debug\Image\title.png
+C:\Users\g023g1246\Desktop\DxLibProjects\ActionGame\bin\Debug\Image\ellanoir.png
+C:\Users\g023g1246\Desktop\DxLibProjects\ActionGame\bin\Debug\Image\gameclear.png
+C:\Users\g023g1246\Desktop\DxLibProjects\ActionGame\bin\Debug\Image\stageclear.png
+C:\Users\g023g1246\Desktop\DxLibProjects\ActionGame\bin\Debug\Image\gameover.png
+C:\Users\g023g1246\Desktop\DxLibProjects\ActionGame\bin\Debug\Image\heart.png
+C:\Users\g023g1246\Desktop\DxLibProjects\ActionGame\bin\Debug\Image\crosshair.png
+C:\Users\g023g1246\Desktop\DxLibProjects\ActionGame\bin\Debug\Sound\bgmBoss.wav
+C:\Users\g023g1246\Desktop\DxLibProjects\ActionGame\bin\Debug\Sound\bgmClear.wav
+C:\Users\g023g1246\Desktop\DxLibProjects\ActionGame\bin\Debug\Sound\bgmDied.wav
+C:\Users\g023g1246\Desktop\DxLibProjects\ActionGame\bin\Debug\Sound\bgmStage.wav
+C:\Users\g023g1246\Desktop\DxLibProjects\ActionGame\bin\Debug\Sound\seCoin.wav
+C:\Users\g023g1246\Desktop\DxLibProjects\ActionGame\bin\Debug\Sound\seSelect.wav
+C:\Users\g023g1246\Desktop\DxLibProjects\ActionGame\bin\Debug\Sound\seShoot.wav
+C:\Users\g023g1246\Desktop\DxLibProjects\ActionGame\bin\Debug\Sound\seSparkling.wav
+C:\Users\g023g1246\Desktop\DxLibProjects\ActionGame\bin\Debug\Sound\seStart.wav
+C:\Users\g023g1246\Desktop\DxLibProjects\ActionGame\bin\Debug\Sound\seSword1.wav
+C:\Users\g023g1246\Desktop\DxLibProjects\ActionGame\bin\Debug\Sound\seSword2.wav
+C:\Users\g023g1246\Desktop\DxLibProjects\ActionGame\bin\Debug\Sound\seBroke1.wav
+C:\Users\g023g1246\Desktop\DxLibProjects\ActionGame\bin\Debug\Sound\seBroke2.wav
+D:\Action Game\backup8\ActionGame\bin\Debug\DxLibW.dll
+D:\Action Game\backup8\ActionGame\bin\Debug\DxLibW_x64.dll
+D:\Action Game\backup8\ActionGame\bin\Debug\Image\annette.png
+D:\Action Game\backup8\ActionGame\bin\Debug\Image\annette_goal.png
+D:\Action Game\backup8\ActionGame\bin\Debug\Image\azalea.png
+D:\Action Game\backup8\ActionGame\bin\Debug\Image\blankblock.png
+D:\Action Game\backup8\ActionGame\bin\Debug\Image\bomber.png
+D:\Action Game\backup8\ActionGame\bin\Debug\Image\breakable.png
+D:\Action Game\backup8\ActionGame\bin\Debug\Image\chargedshot.png
+D:\Action Game\backup8\ActionGame\bin\Debug\Image\coin.png
+D:\Action Game\backup8\ActionGame\bin\Debug\Image\crosshair.png
+D:\Action Game\backup8\ActionGame\bin\Debug\Image\ellanoir.png
+D:\Action Game\backup8\ActionGame\bin\Debug\Image\ellanoir_goal.png
+D:\Action Game\backup8\ActionGame\bin\Debug\Image\enemy_bullet_16.png
+D:\Action Game\backup8\ActionGame\bin\Debug\Image\FloorObject.png
+D:\Action Game\backup8\ActionGame\bin\Debug\Image\flower.png
+D:\Action Game\backup8\ActionGame\bin\Debug\Image\gameclear.png
+D:\Action Game\backup8\ActionGame\bin\Debug\Image\gameover.png
+D:\Action Game\backup8\ActionGame\bin\Debug\Image\ghost.png
+D:\Action Game\backup8\ActionGame\bin\Debug\Image\heart.png
+D:\Action Game\backup8\ActionGame\bin\Debug\Image\itemblock.png
+D:\Action Game\backup8\ActionGame\bin\Debug\Image\itemLifeUp.png
+D:\Action Game\backup8\ActionGame\bin\Debug\Image\itemShieldUp.png
+D:\Action Game\backup8\ActionGame\bin\Debug\Image\itemSpeedUp.png
+D:\Action Game\backup8\ActionGame\bin\Debug\Image\mapchip.png
+D:\Action Game\backup8\ActionGame\bin\Debug\Image\player_shot.png
+D:\Action Game\backup8\ActionGame\bin\Debug\Image\shiitake.png
+D:\Action Game\backup8\ActionGame\bin\Debug\Image\sparkling.png
+D:\Action Game\backup8\ActionGame\bin\Debug\Image\spikeblock.png
+D:\Action Game\backup8\ActionGame\bin\Debug\Image\spikedrop.png
+D:\Action Game\backup8\ActionGame\bin\Debug\Image\squid.png
+D:\Action Game\backup8\ActionGame\bin\Debug\Image\stageclear.png
+D:\Action Game\backup8\ActionGame\bin\Debug\Image\swordbeam.png
+D:\Action Game\backup8\ActionGame\bin\Debug\Image\title.png
+D:\Action Game\backup8\ActionGame\bin\Debug\Image\turtle.png
+D:\Action Game\backup8\ActionGame\bin\Debug\Sound\bgmBoss.wav
+D:\Action Game\backup8\ActionGame\bin\Debug\Sound\bgmClear.wav
+D:\Action Game\backup8\ActionGame\bin\Debug\Sound\bgmDied.wav
+D:\Action Game\backup8\ActionGame\bin\Debug\Sound\bgmStage.wav
+D:\Action Game\backup8\ActionGame\bin\Debug\Sound\seBroke1.wav
+D:\Action Game\backup8\ActionGame\bin\Debug\Sound\seBroke2.wav
+D:\Action Game\backup8\ActionGame\bin\Debug\Sound\seCoin.wav
+D:\Action Game\backup8\ActionGame\bin\Debug\Sound\seSelect.wav
+D:\Action Game\backup8\ActionGame\bin\Debug\Sound\seShoot.wav
+D:\Action Game\backup8\ActionGame\bin\Debug\Sound\seSparkling.wav
+D:\Action Game\backup8\ActionGame\bin\Debug\Sound\seStart.wav
+D:\Action Game\backup8\ActionGame\bin\Debug\Sound\seSword1.wav
+D:\Action Game\backup8\ActionGame\bin\Debug\Sound\seSword2.wav
+D:\Action Game\backup8\ActionGame\bin\Debug\Map\stage1_object.csv
+D:\Action Game\backup8\ActionGame\bin\Debug\Map\stage1_terrain.csv
+D:\Action Game\backup8\ActionGame\bin\Debug\Map\stage2_object.csv
+D:\Action Game\backup8\ActionGame\bin\Debug\Map\stage2_terrain.csv
+D:\Action Game\backup8\ActionGame\bin\Debug\Map\stage3_object.csv
+D:\Action Game\backup8\ActionGame\bin\Debug\Map\stage3_terrain.csv
+D:\Action Game\backup8\ActionGame\bin\Debug\Map\stage4_object.csv
+D:\Action Game\backup8\ActionGame\bin\Debug\Map\stage4_terrain.csv
+D:\Action Game\backup8\ActionGame\bin\Debug\ActionGame.exe.config
+D:\Action Game\backup8\ActionGame\bin\Debug\ActionGame.exe
+D:\Action Game\backup8\ActionGame\bin\Debug\ActionGame.pdb
+D:\Action Game\backup8\ActionGame\obj\Debug\ActionGame.csproj.AssemblyReference.cache
+D:\Action Game\backup8\ActionGame\obj\Debug\ActionGame.csproj.SuggestedBindingRedirects.cache
+D:\Action Game\backup8\ActionGame\obj\Debug\ActionGame.csproj.CoreCompileInputs.cache
+D:\Action Game\backup8\ActionGame\obj\Debug\ActionGame.exe
+D:\Action Game\backup8\ActionGame\obj\Debug\ActionGame.pdb
+C:\Users\g023g1246\Documents\GitHub\ActionGame\bin\Debug\DxLibW.dll
+C:\Users\g023g1246\Documents\GitHub\ActionGame\bin\Debug\DxLibW_x64.dll
+C:\Users\g023g1246\Documents\GitHub\ActionGame\bin\Debug\Image\annette.png
+C:\Users\g023g1246\Documents\GitHub\ActionGame\bin\Debug\Image\annette_goal.png
+C:\Users\g023g1246\Documents\GitHub\ActionGame\bin\Debug\Image\azalea.png
+C:\Users\g023g1246\Documents\GitHub\ActionGame\bin\Debug\Image\blankblock.png
+C:\Users\g023g1246\Documents\GitHub\ActionGame\bin\Debug\Image\bomber.png
+C:\Users\g023g1246\Documents\GitHub\ActionGame\bin\Debug\Image\breakable.png
+C:\Users\g023g1246\Documents\GitHub\ActionGame\bin\Debug\Image\chargedshot.png
+C:\Users\g023g1246\Documents\GitHub\ActionGame\bin\Debug\Image\coin.png
+C:\Users\g023g1246\Documents\GitHub\ActionGame\bin\Debug\Image\crosshair.png
+C:\Users\g023g1246\Documents\GitHub\ActionGame\bin\Debug\Image\ellanoir.png
+C:\Users\g023g1246\Documents\GitHub\ActionGame\bin\Debug\Image\ellanoir_goal.png
+C:\Users\g023g1246\Documents\GitHub\ActionGame\bin\Debug\Image\enemy_bullet_16.png
+C:\Users\g023g1246\Documents\GitHub\ActionGame\bin\Debug\Image\FloorObject.png
+C:\Users\g023g1246\Documents\GitHub\ActionGame\bin\Debug\Image\flower.png
+C:\Users\g023g1246\Documents\GitHub\ActionGame\bin\Debug\Image\gameclear.png
+C:\Users\g023g1246\Documents\GitHub\ActionGame\bin\Debug\Image\gameover.png
+C:\Users\g023g1246\Documents\GitHub\ActionGame\bin\Debug\Image\ghost.png
+C:\Users\g023g1246\Documents\GitHub\ActionGame\bin\Debug\Image\heart.png
+C:\Users\g023g1246\Documents\GitHub\ActionGame\bin\Debug\Image\itemblock.png
+C:\Users\g023g1246\Documents\GitHub\ActionGame\bin\Debug\Image\itemLifeUp.png
+C:\Users\g023g1246\Documents\GitHub\ActionGame\bin\Debug\Image\itemShieldUp.png
+C:\Users\g023g1246\Documents\GitHub\ActionGame\bin\Debug\Image\itemSpeedUp.png
+C:\Users\g023g1246\Documents\GitHub\ActionGame\bin\Debug\Image\mapchip.png
+C:\Users\g023g1246\Documents\GitHub\ActionGame\bin\Debug\Image\player_shot.png
+C:\Users\g023g1246\Documents\GitHub\ActionGame\bin\Debug\Image\shiitake.png
+C:\Users\g023g1246\Documents\GitHub\ActionGame\bin\Debug\Image\sparkling.png
+C:\Users\g023g1246\Documents\GitHub\ActionGame\bin\Debug\Image\spikeblock.png
+C:\Users\g023g1246\Documents\GitHub\ActionGame\bin\Debug\Image\spikedrop.png
+C:\Users\g023g1246\Documents\GitHub\ActionGame\bin\Debug\Image\squid.png
+C:\Users\g023g1246\Documents\GitHub\ActionGame\bin\Debug\Image\stageclear.png
+C:\Users\g023g1246\Documents\GitHub\ActionGame\bin\Debug\Image\swordbeam.png
+C:\Users\g023g1246\Documents\GitHub\ActionGame\bin\Debug\Image\title.png
+C:\Users\g023g1246\Documents\GitHub\ActionGame\bin\Debug\Image\turtle.png
+C:\Users\g023g1246\Documents\GitHub\ActionGame\bin\Debug\Sound\bgmBoss.wav
+C:\Users\g023g1246\Documents\GitHub\ActionGame\bin\Debug\Sound\bgmClear.wav
+C:\Users\g023g1246\Documents\GitHub\ActionGame\bin\Debug\Sound\bgmDied.wav
+C:\Users\g023g1246\Documents\GitHub\ActionGame\bin\Debug\Sound\bgmStage.wav
+C:\Users\g023g1246\Documents\GitHub\ActionGame\bin\Debug\Sound\seBroke1.wav
+C:\Users\g023g1246\Documents\GitHub\ActionGame\bin\Debug\Sound\seBroke2.wav
+C:\Users\g023g1246\Documents\GitHub\ActionGame\bin\Debug\Sound\seCoin.wav
+C:\Users\g023g1246\Documents\GitHub\ActionGame\bin\Debug\Sound\seSelect.wav
+C:\Users\g023g1246\Documents\GitHub\ActionGame\bin\Debug\Sound\seShoot.wav
+C:\Users\g023g1246\Documents\GitHub\ActionGame\bin\Debug\Sound\seSparkling.wav
+C:\Users\g023g1246\Documents\GitHub\ActionGame\bin\Debug\Sound\seStart.wav
+C:\Users\g023g1246\Documents\GitHub\ActionGame\bin\Debug\Sound\seSword1.wav
+C:\Users\g023g1246\Documents\GitHub\ActionGame\bin\Debug\Sound\seSword2.wav
+C:\Users\g023g1246\Documents\GitHub\ActionGame\bin\Debug\Map\stage1_object.csv
+C:\Users\g023g1246\Documents\GitHub\ActionGame\bin\Debug\Map\stage1_terrain.csv
+C:\Users\g023g1246\Documents\GitHub\ActionGame\bin\Debug\Map\stage2_object.csv
+C:\Users\g023g1246\Documents\GitHub\ActionGame\bin\Debug\Map\stage2_terrain.csv
+C:\Users\g023g1246\Documents\GitHub\ActionGame\bin\Debug\Map\stage3_object.csv
+C:\Users\g023g1246\Documents\GitHub\ActionGame\bin\Debug\Map\stage3_terrain.csv
+C:\Users\g023g1246\Documents\GitHub\ActionGame\bin\Debug\Map\stage4_object.csv
+C:\Users\g023g1246\Documents\GitHub\ActionGame\bin\Debug\Map\stage4_terrain.csv
+C:\Users\g023g1246\Documents\GitHub\ActionGame\bin\Debug\ActionGame.exe.config
+C:\Users\g023g1246\Documents\GitHub\ActionGame\bin\Debug\ActionGame.exe
+C:\Users\g023g1246\Documents\GitHub\ActionGame\bin\Debug\ActionGame.pdb
+C:\Users\g023g1246\Documents\GitHub\ActionGame\obj\Debug\ActionGame.csproj.AssemblyReference.cache
+C:\Users\g023g1246\Documents\GitHub\ActionGame\obj\Debug\ActionGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\g023g1246\Documents\GitHub\ActionGame\obj\Debug\ActionGame.csproj.CoreCompileInputs.cache
+C:\Users\g023g1246\Documents\GitHub\ActionGame\obj\Debug\ActionGame.exe
+C:\Users\g023g1246\Documents\GitHub\ActionGame\obj\Debug\ActionGame.pdb
